@@ -4,10 +4,10 @@
 (hook and introduction of us and tel)
 
 ### Index
-[1. Why TEL?](#1-why-tel?)
-[2. What is TEL?](#2-what-is-tel?)
-[3. How do I use TEL?](#3-how-do-i-use-tel?)
-[4. Q & A](#4-q--a)
+[1. Why TEL?](#1-why-tel?)  
+[2. What is TEL?](#2-what-is-tel?)  
+[3. How do I use TEL?](#3-how-do-i-use-tel?)  
+[4. Q & A](#4-q--a)  
 [5. Where do I learn more?](#5-where-do-i-learn-more?)
 
 # 1. Why TEL?
