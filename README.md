@@ -4,11 +4,11 @@
 (hook and introduction of us and tel)
 
 ### Index
-[1. Why TEL?](#1-why-tel?)  
-[2. What is TEL?](#2-what-is-tel?)  
-[3. How do I use TEL?](#3-how-do-i-use-tel?)  
+[1. Why TEL?](#1-why-tel)  
+[2. What is TEL?](#2-what-is-tel)  
+[3. How do I use TEL?](#3-how-do-i-use-tel)  
 [4. Q & A](#4-q--a)  
-[5. Where do I learn more?](#5-where-do-i-learn-more?)
+[5. Where do I learn more?](#5-where-do-i-learn-more)
 
 # 1. Why TEL?
 ## 1.1 Values
@@ -40,7 +40,6 @@ Included in this repository is the TEL manual collection. This collection is div
 These are designed to be consistent and comprehensive, with a clear standard ensuring documentation quality.
 They are also meant to be short and simple, yet comprehensive, and to give you a clear and logical foundation to use TEL in whatever
 domain you see fit. There are 3 included in the [manuals](manuals) directory:
-| Manual ID                 | Intention                                                                             |
 | ------------------------- | ------------------------------------------------------------------------------------- |
 | [FET-0](manuals/fet-0.md) | A manual for how FETs should be written and structured                                |
 | [FET-1](manuals/fet-1.md) | A user manual for those who wish to use the language                                  |
