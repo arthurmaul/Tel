@@ -30,9 +30,11 @@ Included in this repository is the TEL manual collection. This collection is div
 These are designed to be consistent and comprehensive, with a clear standard ensuring documentation quality.
 They are also meant to be short and simple, yet comprehensive, and to give you a clear and logical foundation to use TEL in whatever
 domain you see fit. There are 3 included in the manuals directory:
-1. FET-0: A manual for how FETs should be written and structured
+1. [FET-0](docs/fet-1.md): A manual for how FETs should be written and structured
 1. FET-1: A user manual for those who wish to use the language
 2. FET-2: A development standard for those who wish to join the development team and contribute
 3. FET-3: A specification for those who aspire to implement the language, or one similar
+
+---
 
 (outro)
