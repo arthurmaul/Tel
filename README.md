@@ -20,7 +20,7 @@ what the language needs to be in order to fulfill those things
 
 # 2. What is TEL?
 > *"Programming languages should be designed not by piling feature on top of feature,
-but by removing the weaknesses and restrictions that make additional features appear necessary." ——— John N. Shutt*
+but by removing the weaknesses and restrictions that make additional features appear necessary." — John N. Shutt*
 ## 2.1 models
 everything is either a scalar or a list
 models are placed in a context list for manipulation
