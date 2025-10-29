@@ -1,7 +1,7 @@
 # T . E . L .
-## Tiny Example Language
+## The Tiny Example Language
 
-*“The most disastrous thing that you can ever learn is your first programming language.” ― Alan Kay*
+> *“The most disastrous thing that you can ever learn is your first programming language.” ― Alan Kay*
 (hook and introduction of us and tel)
 
 ### Index
@@ -12,7 +12,7 @@
 [5. Where do I go from here?](#5-where-do-i-go-from-here)
 
 # 1. Why TEL?
-*"Computer programming is an art, because it applies accumulated knowledge to the world,
+> *"Computer programming is an art, because it applies accumulated knowledge to the world,
 because it requires skill and ingenuity, and especially because it produces objects of beauty." — Donald E. Knuth*
 ## 1.1 Values
 prosocial, spreading knowledge
@@ -39,13 +39,13 @@ messages have fields you fill out
 ## 3.3 Modifying TEL and contributing
 
 # 4. Q & A
-*“A language that doesn't affect the way you think about programming is not worth knowing.” ― Alan J. Perlis"*
+> *“A language that doesn't affect the way you think about programming is not worth knowing.” ― Alan J. Perlis*
 ## ...
 ## ...
 ## ...
 
 # 5. Where do I go from here?
-*“I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck* 
+> *“I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck*
 Included in this repository is the TEL manual collection. This collection is divided into smaller, well specified *Formative Educational Texts* or FETs.
 These are designed to be consistent and comprehensive, with a clear standard ensuring documentation quality.
 They are also meant to be short and simple, yet comprehensive, and to give you a clear and logical foundation to use TEL in whatever
@@ -56,5 +56,8 @@ domain you see fit. There are 4 included in the [manuals](manuals) directory:
 - [FET-3](manuals/fet-3.md): A specification for those who aspire to implement the language, or one similar
 
 ---
+
+> *“What's in your hands I think and hope is intelligence: the ability to see the machine as
+more than when you were ﬁrst led up to it that you can make it more.” ― Alan J. Perlis*
 
 (outro)
