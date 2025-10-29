@@ -1,6 +1,7 @@
 # T . E . L .
 ## Tiny Example Language
 
+*“The most disastrous thing that you can ever learn is your first programming language.” ― Alan Kay*
 (hook and introduction of us and tel)
 
 ### Index
@@ -8,9 +9,11 @@
 [2. What is TEL?](#2-what-is-tel)  
 [3. How do I use it?](#3-how-do-i-use-it)  
 [4. Q & A](#4-q--a)  
-[5. Where do I learn more?](#5-where-do-i-learn-more)
+[5. Where do I go from here?](#5-where-do-i-go-from-here)
 
 # 1. Why TEL?
+*"Computer programming is an art, because it applies accumulated knowledge to the world,
+because it requires skill and ingenuity, and especially because it produces objects of beauty." — Donald E. Knuth*
 ## 1.1 Values
 prosocial, spreading knowledge
 ## 1.2 Intentions
@@ -30,14 +33,19 @@ messages have fields you fill out
 ## 2.3 modes
 
 # 3. How do I use it?
+> *"Programming is the art of telling another human being what one wants the computer to do." — Donald E. Knuth*
 ## 3.1 Installation and configuration
 ## 3.2 Using TEL and designing software
 ## 3.3 Modifying TEL and contributing
 
 # 4. Q & A
-...
+*“A language that doesn't affect the way you think about programming is not worth knowing.” ― Alan J. Perlis"*
+## ...
+## ...
+## ...
 
-# 5. Where do I learn more?
+# 5. Where do I go from here?
+*“I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck* 
 Included in this repository is the TEL manual collection. This collection is divided into smaller, well specified *Formative Educational Texts* or FETs.
 These are designed to be consistent and comprehensive, with a clear standard ensuring documentation quality.
 They are also meant to be short and simple, yet comprehensive, and to give you a clear and logical foundation to use TEL in whatever
